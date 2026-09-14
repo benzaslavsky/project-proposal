@@ -1,4 +1,4 @@
-# Project Proposal
+# Project Proposal - Ben Zaslavsky Only (for now?)
 
 # Contextify
 
